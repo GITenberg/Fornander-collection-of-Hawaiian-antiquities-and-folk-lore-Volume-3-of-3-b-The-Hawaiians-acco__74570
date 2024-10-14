@@ -1,0 +1,39 @@
+_repo: Fornander-collection-of-Hawaiian-antiquities-and-folk-lore-Volume-3-of-3-b-The-Hawaiians-acco__74570
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Fornander, Abraham
+    birthdate: 1812
+    deathdate: 1887
+    gutenberg_agent_id: '56777'
+    url: http://www.gutenberg.org/2009/agents/56777
+    wikipedia: https://en.wikipedia.org/wiki/Abraham_Fornander
+  - agent_name: Thrum, Thomas G. (Thomas George)
+    alias: Thrum, Thomas George
+    birthdate: 1842
+    deathdate: 1932
+    gutenberg_agent_id: '8035'
+    url: http://www.gutenberg.org/2009/agents/8035
+description: ''
+gutenberg_issued: '2024-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74570'
+language: en
+pgterms:marc904: https://archive.org/details/FornanderCollection/page/n7
+pgterms:marc905: 20200112013644fornander
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aHonolulu :$bBishop Museum Press, $c1917, pubdate 1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Fornander collection of Hawaiian antiquities and folk-lore, Volume 3 (of 3)
+  : $b The Hawaiians'' account of the formation of their islands and origin of their
+  race, with the traditions of their migrations, etc., as gathered from original sources'
+url: http://www.gutenberg.org/ebooks/74570
