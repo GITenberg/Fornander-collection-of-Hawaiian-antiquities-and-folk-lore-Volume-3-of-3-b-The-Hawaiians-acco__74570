@@ -1,5 +1,8 @@
 _repo: Fornander-collection-of-Hawaiian-antiquities-and-folk-lore-Volume-3-of-3-b-The-Hawaiians-acco__74570
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74570-h/images/new-cover.jpg
 creator:
   editors:
   - agent_name: Fornander, Abraham
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '8035'
     url: http://www.gutenberg.org/2009/agents/8035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74570#Fornander-collection-of-Hawaiian-antiquities-and-folk-lore-Volume-3-of-3-b-The-Hawaiians-acco_
 gutenberg_issued: '2024-10-12'
 gutenberg_type: Text
 identifiers:
